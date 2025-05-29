@@ -1,10 +1,10 @@
-# ◙ Daily Python Practice
+# ◙ Daily Data Science Practice
 
 A daily practice repository to improve Python programming skills through consistent problem-solving. Each day includes one or more problems solved using Python, along with explanations and notes where necessary.
 
 ## ◙ Purpose
 
-- Strengthen Python fundamentals
+- Strengthen Data Science fundamentals
 - Build problem-solving skills
 - Maintain coding consistency
 - Document learning progress
